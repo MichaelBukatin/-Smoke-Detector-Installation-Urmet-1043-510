@@ -95,7 +95,8 @@ Terminal 6: -
 
 Terminal 7: + 
 
-  
+![Connections](photo_2025-07-29_19-24-43.jpg)
+
   ✅ Final Steps
 The detector unit was installed onto the platform.
 
