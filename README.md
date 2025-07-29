@@ -56,6 +56,8 @@ Using the base as a template, two holes were marked and drilled (Ø6 mm).
 
 Plastic dowels were inserted, and the base was secured with screws.
 
+![base] (photo_2025-07-29_19-24-43.jpg)
+
 2. Stripping and Preparation
 All cables were stripped using electrician’s scissors.
 
