@@ -105,6 +105,10 @@ The detector unit was installed onto the platform.
 
 A factory dust cover (likely anti-dust or anti-paint) was placed over the sensor during ongoing construction work.
 
+![Cover](photo_2025-07-29_19-24-50.jpg)
+
+Later I learned to install cleaner and more accurately
+
   
   📌 Notes & Observations
 Each room and hallway was equipped with a detector.
