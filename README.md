@@ -120,6 +120,35 @@ Marking input/output cables early saved time and prevented confusion.
 All detectors were visually inspected and prepared for later system testing.
 
 
+Second part of work
+
+After some time, the workers who installed the drywall finished their work and it was time to install the second sensors, which were slightly different from the previous ones.
+
+Let me remind you of the clamps:
+1. Input +
+2. Input -
+3. Output -
+4. Output +
+5. Jumper (not used)
+6. Light signaling - (fire alarm, since the first sensor is covered with plasterboard and is not visible, the indication is taken out of the room into the corridor)
+7. Light signaling +
+
+But the new sensors have only 4 main clamps as it is connected to the old ones
+![new one](6.jpg)
+
+The beginning of work and next to it is the old sensor to which we connect the new one
+![conection](2.jpg)
+
+I also used drywall dowels that just screw in without drilling.
+![Dowels1](3.jpg)
+![Dowels2](4.jpg)
+![Dowels3](5.jpg)
+
+At the end, installation of the platform and connection
+
+![Platform](7.jpg)
+
+
 
 
 
